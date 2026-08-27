@@ -42,6 +42,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Karya**](https://github.com/Be-Less/Karya) | A task/productivity-focused application | JavaScript |
 | [**FoodFlow**](https://github.com/Be-Less/FoodFlow) | A food-focused application project | JavaScript |
 | [**TODO-Backend**](https://github.com/Be-Less/TODO-Backend) | Backend service for a to-do list app | JavaScript |
 | [**Java-Learning**](https://github.com/Be-Less/Java-Learning) | Hands-on exercises exploring Java fundamentals | Java |
