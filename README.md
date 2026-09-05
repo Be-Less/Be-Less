@@ -65,12 +65,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Be-Less&show_icons=true&hide_title=true&count_private=true&theme=default&border_radius=8" alt="Bilesh's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Be-Less&layout=compact&hide_title=true&theme=default&border_radius=8" alt="Bilesh's most-used languages" height="165"/>
+![Followers](https://img.shields.io/github/followers/Be-Less?label=Followers&style=for-the-badge&color=3C6E47&logo=github&logoColor=white)
 
 </div>
 
-> If a card above doesn't load, it's a temporary hiccup on the stats service — refresh, or view stats directly on [my profile](https://github.com/Be-Less).
+**Repo activity** *(live — pulled directly from the GitHub API)*
+
+![Karya](https://img.shields.io/github/last-commit/Be-Less/Karya?style=flat-square&label=Karya%20last%20commit&color=3C6E47)
+![FoodFlow](https://img.shields.io/github/last-commit/Be-Less/FoodFlow?style=flat-square&label=FoodFlow%20last%20commit&color=3C6E47)
+![TODO-Backend](https://img.shields.io/github/last-commit/Be-Less/TODO-Backend?style=flat-square&label=TODO-Backend%20last%20commit&color=3C6E47)
+
+> Swapped the old stats-card image for shields.io badges — they're generated directly from GitHub's API and don't depend on a third-party rendering service, so they won't go down.
 
 ---
 
