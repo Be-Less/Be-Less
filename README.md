@@ -54,7 +54,7 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[NoQ](https://noq-queue.onrender.com/)** 🏆 | Digital queue system — get a live ticket number on your phone, no app or account needed. Built at MBM Hackfest 2026. | — |
+| **[NoQ](https://noq-queue.onrender.com/)** 🏆 | Digital queue system — get a live ticket number on your phone, no app or account needed. Built at MBM Hackfest 2026. | MongoDB · Express · React · Node.js |
 | **[Karya](https://github.com/Be-Less/Karya)** | Full-stack Jira/Trello-style project manager — teams, tasks, priorities, Kanban board, comments. | React · TypeScript · Node.js · Express · MongoDB · JWT |
 | **[FoodFlow](https://github.com/Be-Less/FoodFlow)** | Restaurant management backend — auth, restaurants, categories, food items as a REST API. | Node.js · Express · MongoDB |
 | **[TODO-Backend](https://github.com/Be-Less/TODO-Backend)** | REST API for todos — search, sort, pagination, centralized error handling. | Express 5 · MongoDB |
